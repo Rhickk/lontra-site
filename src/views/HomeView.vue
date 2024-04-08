@@ -195,7 +195,7 @@
   <footer class="bg-white dark:bg-gray-900">
     <div class="container flex flex-col items-center justify-between px-6 py-8 mx-auto lg:flex-row">
       <a href="#">
-        <img class=" h-14" src="./assets/logo.png" alt="">
+        <img class=" h-14" src="@/assets/logo.png" alt="">
       </a>
 
       <div class="flex flex-wrap items-center justify-center gap-4 mt-6 lg:gap-6 lg:mt-0">
