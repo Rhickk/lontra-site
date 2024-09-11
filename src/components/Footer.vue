@@ -20,8 +20,8 @@
         <a target="_blank" href="https://www.instagram.com/lontrarafael" class="text-sm text-gray-300 transition-colors duration-300 ">
           Instagram
         </a>
-        <a target="_blank" href="privacypolicy" class="text-sm text-gray-300 transition-colors duration-300">Privacy Policy</a>
-        <a target="_blank" href="csrpolicy" class="text-sm text-gray-300 transition-colors duration-300">Corporate Social Responsibility Policy</a>
+        <a target="_blank" href="/privacypolicy" class="text-sm text-gray-300 transition-colors duration-300">Privacy Policy</a>
+        <a target="_blank" href="/csrpolicy" class="text-sm text-gray-300 transition-colors duration-300">Corporate Social Responsibility Policy</a>
       </div>
 
       <p class="mt-6 text-sm text-gray-500 lg:mt-0">© Copyright 2024. </p>
