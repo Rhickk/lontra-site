@@ -182,13 +182,26 @@
                  alt="">
           </div>
         </section>
+
+        <section class="mt-8 space-y-8 lg:mt-12">
+
+          <section class="lg:flex bg-gray-800 lg:py-0 py-10 rounded-3xl lg:items-center flex-row-reverse">
+            <div class="lg:w-1/2 ">
+              <p class="text-lg tracking-wider uppercase text-blue-400 ">Game</p>
+              <h2 class="mt-2 text-2xl font-semibold pb-4 capitalize text-white">Tupi: The Legend of Arariboia</h2>
+              <a target="_blank" href="https://www.youtube.com/watch?v=ObBGs5b_hrI" class="text-sm font-semibold leading-6 text-white">Watch Trailer <span aria-hidden="true">→</span></a>
+            </div>
+
+            <div class="mt-4 lg:w-1/2 lg:mt-0">
+              <img class="object-cover  h-64 rounded-lg md:h-72"
+                   src="@/assets/arariboia.png"
+                   alt="">
+            </div>
+          </section>
+        </section>
       </section>
     </div>
   </section>
-
-  <div class="bg-gray-900 pt-4">
-    <a href="privacypolicy" class="text-white font-semibold">Privacy Policy</a>
-  </div>
 
 <Footer/>
 </template>

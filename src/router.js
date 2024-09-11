@@ -2,6 +2,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from './pages/Home.vue';
 import PrivacyPolicy from './pages/PrivacyPolicy.vue';
+import CSRPolicy from "@/pages/CSRPolicy.vue";
 
 const routes = [
     {
@@ -13,6 +14,11 @@ const routes = [
         path: '/privacypolicy',
         name: 'privacypolicy',
         component: PrivacyPolicy,
+    },
+    {
+        path: '/csrpolicy',
+        name: 'csrpolicy',
+        component: CSRPolicy,
     },
 ];
 
