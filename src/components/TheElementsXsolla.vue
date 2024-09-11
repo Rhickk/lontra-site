@@ -4,7 +4,7 @@
     <div class="lg:w-1/2 ">
       <p class="text-lg tracking-wider uppercase text-blue-400 ">Game</p>
       <h2 class="mt-2 text-2xl font-semibold pb-4 capitalize text-white">4 The Elements</h2>
-      <a href="https://www.youtube.com/watch?v=JAGAr07qVcY" class="text-sm font-semibold leading-6 text-white">Assistir Trailer <span aria-hidden="true">→</span></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=JAGAr07qVcY" class="text-sm font-semibold leading-6 text-white">Assistir Trailer <span aria-hidden="true">→</span></a>
     </div>
 
     <div class="px-6">
